@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  background-color: #06090F;
+  background-color: transparent;
   color: #F8FAFC;
   font-family: 'Inter', system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
