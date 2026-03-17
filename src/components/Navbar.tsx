@@ -12,8 +12,8 @@ export default function Navbar() {
           alt="Heron logo"
           width={36}
           height={36}
-          className="object-contain invert brightness-0 invert"
-          style={{ filter: "invert(1) brightness(2)" }}
+          className="object-contain"
+          style={{ filter: "invert(1) brightness(2)", mixBlendMode: "screen" }}
         />
         <span className="text-white font-semibold text-lg tracking-tight">Heron</span>
       </div>
